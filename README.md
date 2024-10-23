@@ -1,12 +1,12 @@
 # Data Scientist - Machine Learning Engineer
 
 ## EDUCATION
-Ph.D. in Systems and Information Engineering | University of Virginia
-Master of Engineering in Systems and Information Engineering | University of Virginia
-Master of Project Management | University of Southern California
-Master of UX/UI Design | University of Tehran
+- Ph.D. in Systems and Information Engineering | University of Virginia
+- Master of Engineering in Systems and Information Engineering | University of Virginia
+- Master of Project Management | University of Southern California
+- Master of UX/UI Design | University of Tehran
 
-### WORK EXPERIENCES
+## WORK EXPERIENCES
 
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
