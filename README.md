@@ -1,10 +1,11 @@
 # Data Scientist - Machine Learning Engineer
 
 ## EDUCATION
-- Ph.D. in Systems and Information Engineering | University of Virginia
-- Master of Engineering in Systems and Information Engineering | University of Virginia
-- Master of Project Management | University of Southern California
-- Master of UX/UI Design | University of Tehran
+- Ph.D. in Systems and Information Engineering, University of Virginia
+- Master of Engineering in Systems and Information Engineering, University of Virginia
+- Master of Project Management, University of Southern California
+- Master of UX/UI Design, University of Tehran
+- Bachelor of Science in Engineering, University of Shiraz
 
 ## WORK EXPERIENCES
 
@@ -29,8 +30,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
@@ -38,8 +37,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
@@ -51,5 +48,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
