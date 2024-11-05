@@ -2,11 +2,11 @@
 [Webpage](https://neginmoghadasi.wixsite.com/home)
 
 ## EDUCATION
-- Ph.D. in Systems and Information Engineering, University of Virginia
-- Master of Engineering in Systems and Information Engineering, University of Virginia
-- Master of Project Management, University of Southern California
-- Master of UX/UI Design, University of Tehran
-- Bachelor of Science in Engineering, University of Shiraz
+- Ph.D. in Systems and Information Engineering, University of Virginia, GPA: 3.90 (_May 2024_)
+- Master of Engineering in Systems and Information Engineering, University of Virginia, GPA: 3.90 (_May 2022_)
+- Master of Project Management, University of Southern California, GPA: 3.71 (_December 2018_)
+- Master of UX/UI Design, University of Tehran, GPA: 3.83 (_September 2013_)
+- Bachelor of Science in Engineering, University of Shiraz, GPA: 3.54 (_September 2010_)
 
 ## WORK EXPERIENCES
 
