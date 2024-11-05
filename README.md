@@ -1,4 +1,5 @@
 # Data Scientist - Machine Learning Engineer
+[Webpage](https://neginmoghadasi.wixsite.com/home)
 
 ## EDUCATION
 - Ph.D. in Systems and Information Engineering, University of Virginia
@@ -19,13 +20,13 @@
 - Achieved high negative predictive value (NPV) with RFE CV LightGBM, reducing follow-up test requirements by 15%.
 - Collaborated with cross-functional teams to ensure model results were effectively integrated, contributing to a 10% increase in clinical alignment.
 
-**Senior Associate Data Scientist @ Secretariat International Advisory (-May 2017 – Jan 2020-)**
+**Senior Associate Data Scientist @ Secretariat International Advisory (_May 2017 – January 2020_)**
 - Used anomaly detection in Python and Excel to analyze productivity for an $800M highway project, resulting in a $520K increase in company revenue.
 - Optimized schedules and financial assessments on a $630M highway and a $40M natural gas project, generating $350K in additional revenue.
 - Employed data mining and clustering on a $22.5B metro railway and 40,000 m² hotel project, improving cost analysis efficiency by 30%.
 - Conducted forensic analysis on a $9B FPSO conversion and $950M oil platform, contributing to a court win with $150M in awarded damages.
 
-**Data Science Graduate Research Assistant @ University of Virginia (-August 2020 – May 2024-)**
+**Data Science Graduate Research Assistant @ University of Virginia (_August 2020 – May 2024_)**
 - Awarded 5 academic honors, including the UVA Engineering Fellowship for outstanding scholarship.
 - Developed Bayesian Optimization and unsupervised learning algorithms for medical device design, reducing procedure time by 15% and costs by 10%.
 - Collaborated with HDZ NRW on a patent to diagnose cardiac diseases using supervised learning, cutting hospital admission time by 20% and diagnostic costs by 25%.
@@ -33,7 +34,7 @@
 - Enhanced image recognition accuracy by 5% with deep learning models, contributing to a 10% improvement in clinical outcomes.
 - Published 20+ peer-reviewed papers and reviewed 30+ manuscripts, contributing to AI research and journal integrity.
 
-**Project Manager and Engineer @ Monarch Group (-September 2013 – January 2016)**
+**Project Manager and Engineer @ Monarch Group (_September 2013 – January 2016_)**
 - Managed UX/UI design projects across advertising, residential, and commercial sectors, delivering projects on time with a 95% client satisfaction rate.
 - Led brand identity and retail space renovation projects, ensuring 100% client satisfaction and on-schedule delivery.
 
